@@ -1,6 +1,6 @@
 ## Ahmed Melouk
 
-Full Stack Developer · Ruby on Rails · Node.js · TypeScript · React
+Full Stack Developer · Node.js · React . TypeScript . Ruby on Rails
 
 CS graduate (Alexandria University). I build production web apps with real tests, real databases, and real security hardening.
 
